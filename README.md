@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&labelColor=757575&logoColor=white" alt="Follow on GitHub">
 </a>
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yassinebenajmia01&color=8b5cf6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/yassinebenajmia01?style=flat-square&color=7c3aed&label=Followers)
