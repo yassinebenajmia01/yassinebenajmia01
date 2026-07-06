@@ -53,16 +53,16 @@ Currently completing my **Bachelor's Degree in Computer Engineering at ISITCOM**
 ## 🛠️ Tech Stack
 
 **Languages**
-<p> <img src="https://skillicons.dev/icons?i=js,ts,python,c++" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" /> </p>
 
 **Frontend**
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vuejs" /> </p>
 
 **Backend & Databases**
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" /> </p>
 
 **Cloud, DevOps & Tooling**
-<p> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,antigravity" /> </p>
 
 ---
 
