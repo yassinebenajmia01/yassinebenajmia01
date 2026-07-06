@@ -15,7 +15,7 @@
 
 <br/>
 
-<a href="[YOUR_PORTFOLIO_LINK](https://www.yassine.dev/)"><img src="https://img.shields.io/badge/▲_PORTFOLIO-LIVE-A78BFA?style=for-the-badge&labelColor=757575&color=A78BFA&logoColor=white"/></a>
+<a href="https://www.yassine.dev/"><img src="https://img.shields.io/badge/▲_PORTFOLIO-LIVE-A78BFA?style=for-the-badge&labelColor=757575&color=A78BFA&logoColor=white"/></a>
 <a href="www.linkedin.com/in/mohamed-yassine-ajmia"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&labelColor=757575&logoColor=white"/></a>
 <a href="mailto:yacineajmiaskip753@gmail.com"><img src="https://img.shields.io/badge/EMAIL-REACH_OUT-EF4444?style=for-the-badge&logo=gmail&labelColor=757575&logoColor=white"/></a>
 <a href="https://github.com/yassinebenajmia01" target="_blank">
@@ -94,7 +94,7 @@ A full-stack platform serving students, faculty, and administrators with secure 
 | **Performance** | FCP : 1s , LCP : 1.5s , LPS : 82/100  |
 | **Security** | JWT Authentication, Role-Based Access Control |
 | **Impact** | Streamlined academic services & club management for the university |
-| **Repository** | [Add repo link]([https://github.com/yassinebenajmia01](https://github.com/yassinebenajmia01/uni-website-main-main)) |
+| **Repository** | "https://github.com/yassinebenajmia01/uni-website-main-main" |
 
 Built end-to-end as the capstone project of the Computer Engineering program, focusing on secure, role-aware access for multiple user types and centralizing previously fragmented academic workflows into one platform.
 
