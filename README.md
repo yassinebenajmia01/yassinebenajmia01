@@ -15,10 +15,10 @@
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/▲_PORTFOLIO-LIVE-A78BFA?style=for-the-badge&labelColor=a8a8a8&color=A78BFA&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&labelColor=a8a8a8&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-REACH_OUT-EF4444?style=for-the-badge&logo=gmail&labelColor=a8a8a8&logoColor=white"/></a>
-<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&labelColor=a8a8a8&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/▲_PORTFOLIO-LIVE-A78BFA?style=for-the-badge&labelColor=9b9b9b&color=A78BFA&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&labelColor=9b9b9b&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-REACH_OUT-EF4444?style=for-the-badge&logo=gmail&labelColor=9b9b9b&logoColor=white"/></a>
+<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&labelColor=9b9b9b&logoColor=white"/></a>
 
 <br/><br/>
 
