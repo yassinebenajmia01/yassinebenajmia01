@@ -62,13 +62,12 @@ Currently completing my **Bachelor's Degree in Computer Engineering at ISITCOM**
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" /> </p>
 
 **Cloud, DevOps & Tooling**
-<p> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,antigravity" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" /> </p>
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🤖 AI / API/ SECURITY Expertise
 
-> *Update this table with your actual AI/ML experience — your CV didn't list specific AI/ML work, so this is a placeholder scaffold for you to fill in.*
 
 | Domain | Proficiency | Details |
 |---|---|---|
