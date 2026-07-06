@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/31c8c2e6-3cca-43c4-beaa-67d88c6d81d7" /><div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=header" width="100%"/>
 
 <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohamed%20Yassine%20Ajmia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Full-Stack%20Developer%20%7C%20AI%20%26%20Web%20Enthusiast&descAlignY=55&descSize=18" width="100%](https://capsule-render.vercel.app/api?type=waving&height=300&color=302B63&section=header&reversal=false&animation=fadeIn)"/>
@@ -91,7 +91,7 @@ A full-stack platform serving students, faculty, and administrators with secure 
 |---|---|
 | **Stack** | React.js, Node.js, Express.js, MongoDB/MySQL |
 | **Scale** | University-wide (students, faculty, admins) |
-| **Performance** | _Add metrics (load time, concurrent users, etc.)_ |
+| **Performance** | FCP : 1s , LCP : 1.5s , LPS : 82/100  |
 | **Security** | JWT Authentication, Role-Based Access Control |
 | **Impact** | Streamlined academic services & club management for the university |
 | **Repository** | [Add repo link]([https://github.com/yassinebenajmia01](https://github.com/yassinebenajmia01/uni-website-main-main)) |
@@ -100,28 +100,10 @@ Built end-to-end as the capstone project of the Computer Engineering program, fo
 
 </details>
 
-<details>
-<summary><b>🎓 University Management Platform — Final Year Project (ISITCOM)</b></summary>
 
-<br/>
-
-A full-stack platform serving students, faculty, and administrators with secure authentication, academic services, club management, and administrative dashboards.
-
-| Category | Details |
-|---|---|
-| **Stack** | React.js, Node.js, Express.js, MongoDB/MySQL |
-| **Scale** | University-wide (students, faculty, admins) |
-| **Performance** | _Add metrics_ |
-| **Security** | JWT Authentication, Role-Based Access Control |
-| **Impact** | Streamlined academic services & club management for the university |
-| **Repository** | [Add repo link](#) |
-
-Built end-to-end as the capstone project of the Computer Engineering program, focusing on secure, role-aware access for multiple user types and centralizing academic workflows into one platform.
-
-</details>
 
 <details>
-<summary><b>🏛️ ATAST Social App — Association Tunisienne pour l'Avenir des Sciences et de la Technologie</b></summary>
+<summary><b>📱 ATAST Social App — Association Tunisienne pour l'Avenir des Sciences et de la Technologie</b></summary>
 
 <br/>
 
@@ -131,10 +113,10 @@ A social media platform built for ATAST's club community, enabling members to co
 |---|---|
 | **Stack** | React.js, Node.js, Express.js, MongoDB |
 | **Scale** | Club-wide social platform for ATAST members |
-| **Performance** | _Add metrics_ |
+| **Performance** | FCP : 1.3s , LCP : 1.2s , LPS : 79/100 |
 | **Security** | JWT Authentication, secure user sessions |
 | **Impact** | Centralized community engagement and event visibility for club members |
-| **Repository** | [Add repo link](#) |
+| **Repository** | [Add repo link]([#](https://github.com/yassinebenajmia01/atast-appBack)) |
 
 Designed and developed to give ATAST members a dedicated space to connect, post updates, and stay informed about club initiatives and events.
 
