@@ -53,7 +53,7 @@ Currently completing my **Bachelor's Degree in Computer Engineering at ISITCOM**
 ## 🛠️ Tech Stack
 
 **Languages**
-<p> <img src="https://skillicons.dev/icons?i=js,ts,html,css" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=js,ts,python,c++" /> </p>
 
 **Frontend**
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" /> </p>
