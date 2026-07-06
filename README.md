@@ -73,13 +73,12 @@ Currently completing my **Bachelor's Degree in Computer Engineering at ISITCOM**
 |---|---|---|
 | REST API Integration | ⭐⭐⭐⭐ | Building & consuming APIs across full-stack projects |
 | Authentication & Security | ⭐⭐⭐⭐ | JWT-based auth, role-based access control |
-| _AI/ML (add your stack)_ | ⭐⭐ | _e.g. TensorFlow, scikit-learn, OpenAI API_ |
+| _AI/ML  | ⭐⭐ | _e.g. TensorFlow, scikit-learn, OpenAI API_ |
 
 ---
 
 ## 🚀 Featured Projects
 
-> *Add repository links and metrics for each project below — placeholders are marked where your CV didn't include specifics.*
 
 <details>
 <summary><b>🎓 University Management Platform — Final Year Project (ISITCOM)</b></summary>
@@ -95,29 +94,129 @@ A full-stack platform serving students, faculty, and administrators with secure 
 | **Performance** | _Add metrics (load time, concurrent users, etc.)_ |
 | **Security** | JWT Authentication, Role-Based Access Control |
 | **Impact** | Streamlined academic services & club management for the university |
-| **Repository** | [Add repo link](https://github.com/yassinebenajmia01) |
+| **Repository** | [Add repo link]([https://github.com/yassinebenajmia01](https://github.com/yassinebenajmia01/uni-website-main-main)) |
 
 Built end-to-end as the capstone project of the Computer Engineering program, focusing on secure, role-aware access for multiple user types and centralizing previously fragmented academic workflows into one platform.
 
 </details>
 
 <details>
-<summary><b>💼 Freelance Client Websites</b></summary>
+<summary><b>🎓 University Management Platform — Final Year Project (ISITCOM)</b></summary>
 
 <br/>
 
-A collection of responsive websites delivered for local clients, from requirements gathering through deployment.
+A full-stack platform serving students, faculty, and administrators with secure authentication, academic services, club management, and administrative dashboards.
 
 | Category | Details |
 |---|---|
-| **Stack** | React.js, Next.js, Tailwind CSS, RESTful APIs |
-| **Scale** | Multiple independent client projects |
-| **Performance** | Optimized for both desktop and mobile |
-| **Security** | Standard web security best practices |
-| **Impact** | Delivered tailored, production-ready solutions to local businesses |
-| **Repository** | [Add repo link](https://github.com/yassinebenajmia01) |
+| **Stack** | React.js, Node.js, Express.js, MongoDB/MySQL |
+| **Scale** | University-wide (students, faculty, admins) |
+| **Performance** | _Add metrics_ |
+| **Security** | JWT Authentication, Role-Based Access Control |
+| **Impact** | Streamlined academic services & club management for the university |
+| **Repository** | [Add repo link](#) |
 
-Worked directly with clients to translate business requirements into responsive, user-friendly interfaces, handling the full lifecycle from design to deployment.
+Built end-to-end as the capstone project of the Computer Engineering program, focusing on secure, role-aware access for multiple user types and centralizing academic workflows into one platform.
+
+</details>
+
+<details>
+<summary><b>🏛️ ATAST Social App — Association Tunisienne pour l'Avenir des Sciences et de la Technologie</b></summary>
+
+<br/>
+
+A social media platform built for ATAST's club community, enabling members to connect, share updates, and stay engaged with club activities and events.
+
+| Category | Details |
+|---|---|
+| **Stack** | React.js, Node.js, Express.js, MongoDB |
+| **Scale** | Club-wide social platform for ATAST members |
+| **Performance** | _Add metrics_ |
+| **Security** | JWT Authentication, secure user sessions |
+| **Impact** | Centralized community engagement and event visibility for club members |
+| **Repository** | [Add repo link](#) |
+
+Designed and developed to give ATAST members a dedicated space to connect, post updates, and stay informed about club initiatives and events.
+
+</details>
+
+<details>
+<summary><b>🧠 NeuroNation Clone — Brain Training App</b></summary>
+
+<br/>
+
+A clone of the NeuroNation app, featuring interactive brain-training exercises and games designed to improve memory, focus, and cognitive skills.
+
+| Category | Details |
+|---|---|
+| **Stack** | React.js / React Native, Node.js, MongoDB |
+| **Scale** | Multi-user brain-training platform |
+| **Performance** | _Add metrics_ |
+| **Security** | User authentication, progress tracking per user |
+| **Impact** | Recreated a polished, real-world cognitive training experience |
+| **Repository** | [Add repo link](#) |
+
+Rebuilt the core experience of NeuroNation, including exercise variety, progress tracking, and a clean, engaging UI focused on daily brain-training habits.
+
+</details>
+
+<details>
+<summary><b>✈️ FickleFlight — Travel Agency Platform</b></summary>
+
+<br/>
+
+A travel agency web application allowing users to browse, compare, and book flights and travel packages with a modern, responsive interface.
+
+| Category | Details |
+|---|---|
+| **Stack** | React.js, Next.js, Node.js, MongoDB/PostgreSQL |
+| **Scale** | Full travel booking platform (flights & packages) |
+| **Performance** | _Add metrics_ |
+| **Security** | Secure user accounts, protected booking flow |
+| **Impact** | Streamlined flight search and booking experience for travelers |
+| **Repository** | [Add repo link](#) |
+
+Built as a full-featured travel agency platform, covering flight search, package browsing, and a smooth end-to-end booking flow.
+
+</details>
+
+<details>
+<summary><b>🎵 Spotify Clone</b></summary>
+
+<br/>
+
+A front-end and back-end recreation of Spotify's core music streaming experience, including playlists, playback controls, and a responsive UI.
+
+| Category | Details |
+|---|---|
+| **Stack** | React.js, Node.js, Express.js, MongoDB |
+| **Scale** | Full music streaming interface clone |
+| **Performance** | _Add metrics_ |
+| **Security** | User authentication, session management |
+| **Impact** | Demonstrated ability to replicate complex, production-grade UI/UX |
+| **Repository** | [Add repo link](#) |
+
+Recreated Spotify's key features — playlists, search, and playback controls — with a focus on matching the polish and responsiveness of the real app.
+
+</details>
+
+<details>
+<summary><b>🏦 Bank App</b></summary>
+
+<br/>
+
+A secure banking application supporting account management, transactions, and user authentication with a focus on data security.
+
+| Category | Details |
+|---|---|
+| **Stack** | React.js, Node.js, Express.js, PostgreSQL/MySQL |
+| **Scale** | Multi-user banking platform |
+| **Performance** | _Add metrics_ |
+| **Security** | JWT Authentication, encrypted transactions, role-based access |
+| **Impact** | Simulated a secure, real-world financial application experience |
+| **Repository** | [Add repo link](#) |
+
+Built to demonstrate secure handling of financial data, including account management, transaction processing, and authentication best practices.
 
 </details>
 
