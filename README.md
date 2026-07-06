@@ -4,7 +4,7 @@
 <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohamed%20Yassine%20Ajmia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Full-Stack%20Developer%20%7C%20AI%20%26%20Web%20Enthusiast&descAlignY=55&descSize=18" width="100%](https://capsule-render.vercel.app/api?type=waving&height=300&color=302B63&section=header&reversal=false&animation=fadeIn)"/>
 
 <a href="https://github.com/yassinebenajmia01">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Next.js;Building+Secure+%26+Scalable+Web+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Next.js;Building+Secure+%26+Scalable+Web+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
