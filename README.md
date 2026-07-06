@@ -15,10 +15,10 @@
 
 <br/>
 
-<a href="https://yassine.dev"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohamed-yassine-ajmia"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yacineajmiaskip7530@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/yassinebenajmia01"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/▲_PORTFOLIO-LIVE-A78BFA?style=for-the-badge&labelColor=1a1a1a&color=A78BFA&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a1a1a&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-REACH_OUT-EF4444?style=for-the-badge&logo=gmail&labelColor=1a1a1a&logoColor=white"/></a>
+<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&labelColor=1a1a1a&logoColor=white"/></a>
 
 <br/><br/>
 
