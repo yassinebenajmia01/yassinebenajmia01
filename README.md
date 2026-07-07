@@ -306,7 +306,7 @@ Designed and built a full-stack university platform for students, faculty, and a
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yassinebenajmia01&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=yassinebenajmia01&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&rank=-A,-AA,-AAA" />
 </div>
 
 ## 📈 Contribution Activity
