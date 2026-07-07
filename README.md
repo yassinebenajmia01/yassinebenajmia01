@@ -291,25 +291,13 @@ Designed and built a full-stack university platform for students, faculty, and a
 
 ---
 
-## 💻 Coding Profiles
-
-> *Add your actual usernames below to activate these badges.*
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=green"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yassinebenajmia01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9c9c9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=yassinebenajmia01&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=yassinebenajmia01&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebenajmia01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9c9c9" width="49%"/>
 
