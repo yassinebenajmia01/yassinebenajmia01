@@ -248,8 +248,7 @@ Designed and built a full-stack university platform for students, faculty, and a
 
 <div align="center">
 
-| Recognition | Details |
-| **Achievements** | 🥇 **1st Place** — Hack For Health 2.0 <br/> 🥉 **3rd Place** — CyberBenders CTF & AI Hackathon (Cybersecurity & AI) <br/> 🌟 Participated in **Nuit de l'Info**, **Green Health Care**, and various tech events & innovation challenges |
+ 🥇 **1st Place** — Hack For Health 2.0 <br/> 🥉 **3rd Place** — CyberBenders CTF & AI Hackathon (Cybersecurity & AI) <br/> 🌟 Participated in **Nuit de l'Info**, **Green Health Care**, and various tech events & innovation challenges |
 
 </div>
 
