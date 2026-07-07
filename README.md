@@ -312,7 +312,8 @@ Designed and built a full-stack university platform for students, faculty, and a
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinebenajmia01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9c9c9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinebenajmia01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9c9c9&area=true&area_color=8b5cf6" width="100%"/>
+
 </div>
 
 ## 🐍 Contribution Snake
