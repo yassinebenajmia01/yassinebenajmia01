@@ -256,19 +256,38 @@ Designed and built a full-stack university platform for students, faculty, and a
 
 ## 📜 Certifications
 
-> *Your CV didn't list certifications — add them here grouped by provider, or remove this section.*
+**🤖 AI & Generative AI**
+<p>
+<img src="https://img.shields.io/badge/Intro%20to%20ChatGPT%20%26%20Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
-**AWS**
-<br/>_Add AWS badges here_
+**📊 Data & Analytics**
+<p>
+<img src="https://img.shields.io/badge/Introduction%20to%20Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-**Oracle**
-<br/>_Add Oracle badges here_
+**💻 Programming**
+<p>
+<img src="https://img.shields.io/badge/Introduction%20to%20R%20Programming-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intermediate%20Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-**NPTEL**
-<br/>_Add NPTEL badges here_
+**🌐 Networking**
+<p>
+<img src="https://img.shields.io/badge/CCNP%20Routing%20%26%20Switching%20300--101%20ROUTE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
-**Cisco**
-<br/>_Add Cisco badges here_
+**🛠️ Developer Tools**
+<p>
+<img src="https://img.shields.io/badge/Introduction%20to%20Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+**🖥️ Computer Fundamentals**
+<p>
+<img src="https://img.shields.io/badge/Computer%20Hardware%20Basics-6D28D9?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+</p>
 
 ---
 
