@@ -240,7 +240,7 @@ Designed and built a full-stack university platform for students, faculty, and a
 - Implemented secure authentication and role-based access control
 - Developed academic services, club management, and administrative dashboards
 
-`React.js` `Node.js` `MongoDB` `JWT`
+`React.js` `Node.js` `Next.js` `JWT` `PostegreSQL` `Vite`
 
 ---
 
